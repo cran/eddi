@@ -1,0 +1,14 @@
+d3cbf5a241fd2167328e0d5afdb5dceb *DESCRIPTION
+d0cc9b47629f6c0d6de46b1d482851d8 *NAMESPACE
+89faf91e5c9069bc759267e28ce51ab1 *NEWS.md
+94972bfba68c60b504cb0a7da3a80eab *R/get_eddi.R
+9069b629423704ae16be36a0c2d431a7 *README.md
+b225b3b80b8bf4d85feb87631bd176b4 *build/vignette.rds
+8d19afc7e22489d2c9e3d9c3a0b48aa2 *inst/doc/eddi-roi-tutorial.R
+33ff4312636f53cc82ced4505a7eed8a *inst/doc/eddi-roi-tutorial.Rmd
+963fd1a2f2bfa1a700073bec5caf4110 *inst/doc/eddi-roi-tutorial.html
+bd801452e2bf123fd822d5f556c302ec *man/figures/README-plot-example-1.png
+74a2719fad17bf7d04c5dae14133585d *man/get_eddi.Rd
+053035da6f5064ad84294667b77879ef *tests/testthat.R
+08f5ee7e8269332a8feb2797e9f29ae3 *tests/testthat/test-get_eddi.R
+33ff4312636f53cc82ced4505a7eed8a *vignettes/eddi-roi-tutorial.Rmd
